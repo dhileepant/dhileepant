@@ -4,8 +4,8 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhileepan-t)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/dhileepan13/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhileepant)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/dhileepant/)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/dhileepant)
 [![Codolio](https://img.shields.io/badge/-Codolio-purple?logo=codemagic&logoColor=white)](https://codolio.com/profile/dhileepant)
 [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:kit27.cse17@gmail.com)
@@ -13,14 +13,14 @@
 ---
 
 ## 🧑‍💻 About Me
-🎓 Pursuing **B.E. in Computer Science and Engineering** at **KIT – Kalaignar Karunanidhi Institute of Technology (2023–2027)** with a current **CGPA of 8.9**.  
+🎓 Pursuing **B.E. in Computer Science and Engineering** at **KIT – Kalaignar Karunanidhi Institute of Technology (2023–2027)** · **CGPA: 8.9**.  
 
-💡 Passionate about building scalable web applications, solving complex problems, and working on projects that combine **AI, accessibility, and modern web technologies**.  
+💡 Passionate about scalable web apps, AI & accessibility, and efficient problem solving.
 
-- 🌱 Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**  
-- 🔧 Improving **Data Structures & Algorithms (DSA)** through LeetCode & Striver’s A2Z Sheet  
-- 🎯 Project: *AI-Powered Braille Translator – Bridging Communication for the Visually Impaired*  
-- 🏆 Certified in **C Programming (NPTEL)**  
+- 🌱 Currently learning **MERN (MongoDB, Express, React, Node.js)**  
+- 🔧 Improving **DSA** via LeetCode & Striver’s A2Z  
+- 🎯 Project: *AI-Powered Braille Translator — Bridging Communication for the Visually Impaired*  
+- 🏆 NPTEL Certificate — **C Programming**
 
 ---
 
@@ -58,21 +58,10 @@
 
 ## 🎯 Current Focus
 - 📌 Mastering **MERN Stack**  
-- 📌 Strengthening **Problem Solving**  
-- 📌 Building impactful projects in **AI & Web Development**  
-
+- 📌 Strengthening **Problem Solving & DSA**  
+- 📌 Building projects in **AI & Web Development**
 
 <!--
-**dhileepant/dhileepant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**dhileepant/dhileepant** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
+
