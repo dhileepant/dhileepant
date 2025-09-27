@@ -4,7 +4,7 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhileepant)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhileepan-t-5982682a6/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/dhileepan13/)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/dhileepan_2)
 [![Codolio](https://img.shields.io/badge/-Codolio-purple?logo=codemagic&logoColor=white)](https://codolio.com/profile/dhileepan)
