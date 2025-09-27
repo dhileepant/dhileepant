@@ -5,10 +5,10 @@
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhileepant)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/dhileepant/)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/dhileepant)
-[![Codolio](https://img.shields.io/badge/-Codolio-purple?logo=codemagic&logoColor=white)](https://codolio.com/profile/dhileepant)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:kit27.cse17@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/dhileepan13/)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/dhileepan_2)
+[![Codolio](https://img.shields.io/badge/-Codolio-purple?logo=codemagic&logoColor=white)](https://codolio.com/profile/dhileepan)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:dhileepantv@gmail.com)
 
 ---
 
