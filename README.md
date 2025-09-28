@@ -25,7 +25,7 @@
 ---
 
 ## 📊 My LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/dhileepant?theme=dark&font=Roboto&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/dhileepan13?theme=dark&font=Roboto&ext=contest)
 
 ---
 
