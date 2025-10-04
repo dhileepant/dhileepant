@@ -13,13 +13,13 @@
 ---
 
 ## 🧑‍💻 About Me
-🎓 Pursuing **B.E. in Computer Science and Engineering** at **KIT – Kalaignar Karunanidhi Institute of Technology (2023–2027)** · **CGPA: 8.9**.  
+🎓 Pursuing **B.E. in Computer Science and Engineering** at **KIT – Kalaignar Karunanidhi Institute of Technology (2023–2027)** · 
+   **CGPA: 8.9**.  
 
 💡 Passionate about scalable web apps, AI & accessibility, and efficient problem solving.
 
 - 🌱 Currently learning **MERN (MongoDB, Express, React, Node.js)**  
-- 🔧 Improving **DSA** via LeetCode & Striver’s A2Z  
-- 🎯 Project: *AI-Powered Braille Translator — Bridging Communication for the Visually Impaired*  
+- 🔧 Improving **DSA** via LeetCode 
 - 🏆 NPTEL Certificate — **C Programming**
 
 ---
