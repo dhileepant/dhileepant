@@ -1,5 +1,5 @@
 # Hey! I am Dhileepan 👋  
-🚀 Aspiring Full-Stack Developer | 💡 Avid Learner | 🧑‍💻 Problem Solver  
+🚀 Aspiring Full-Stack Developer | 💡 Consistent Learner | 🧑‍💻 Problem Solver  
 
 ---
 
@@ -63,8 +63,3 @@
 - 📌 Mastering **MERN Stack**  
 - 📌 Strengthening **Problem Solving & DSA**  
 - 📌 Building projects in **AI & Web Development**
-
-<!--
-**dhileepant/dhileepant** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
-
