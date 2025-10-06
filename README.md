@@ -53,3 +53,6 @@
 - Mastering **MERN Stack**  
 - Strengthening **Problem Solving & DSA**  
 - Building projects in **AI & Web Development**
+
+## GitHub Contribution Heatmap
+![GitHub Heatmap](https://activity-graph.herokuapp.com/graph?username=dhileepant&theme=react-dark&area=true)
