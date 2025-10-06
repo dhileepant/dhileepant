@@ -1,4 +1,8 @@
-![Hi, I’m Dhileepan](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dhileepan%20T&fontSize=60&animation=fadeIn&fontAlignY=40)
+<!-- Capsule banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:ff758c&height=200&section=header&text=Hi,%20I'm%20Dhileepan!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Aspiring+Full-Stack+Developer;Consistent+Learner;Problem+Solver;DSA+%7C+MERN+Stack+Enthusiast)](https://git.io/typing-svg)
 
 
 ---
