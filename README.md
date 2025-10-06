@@ -13,8 +13,7 @@
 ---
 
 ## 🧑‍💻 About Me
-🎓 Pursuing **B.E. in Computer Science and Engineering** at **KIT – Kalaignar Karunanidhi Institute of Technology (2023–2027)** · 
-   **CGPA: 8.9**.  
+🎓 Pursuing **B.E. in Computer Science and Engineering** at **KIT – Kalaignar Karunanidhi Institute of Technology (2023–2027)** ·   
 
 💡 Passionate about scalable web apps, AI & accessibility, and efficient problem solving.
 
