@@ -1,6 +1,17 @@
 # Hey! I am Dhileepan 
 🚀 Aspiring Full-Stack Developer | 💡 Consistent Learner | 🧑‍💻 Problem Solver  
 
+## 🧑‍💻 About Me
+🎓 Pursuing **B.E. in Computer Science and Engineering** at **KIT – Kalaignar Karunanidhi Institute of Technology (2023–2027)** ·   
+
+💡 Passionate about scalable web apps, AI & accessibility, and efficient problem solving.
+
+- 🌱 Currently learning **MERN (MongoDB, Express, React, Node.js)**  
+- 🔧 Improving **DSA** via LeetCode 
+- 🏆 NPTEL Certificate — **C Programming**
+
+---
+
 ---
 
 ## 🌐 Connect With Me
@@ -12,16 +23,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-🎓 Pursuing **B.E. in Computer Science and Engineering** at **KIT – Kalaignar Karunanidhi Institute of Technology (2023–2027)** ·   
-
-💡 Passionate about scalable web apps, AI & accessibility, and efficient problem solving.
-
-- 🌱 Currently learning **MERN (MongoDB, Express, React, Node.js)**  
-- 🔧 Improving **DSA** via LeetCode 
-- 🏆 NPTEL Certificate — **C Programming**
-
----
 
 ## 📊 My LeetCode Stats
 ![LeetCode Contest Stats](https://leetcard.jacoblin.cool/dhileepan13?theme=dark&font=Roboto&ext=contest)
