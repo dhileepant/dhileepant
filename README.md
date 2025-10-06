@@ -1,4 +1,4 @@
-# Hey! I am Dhileepan 👋  
+# Hey! I am Dhileepan 
 🚀 Aspiring Full-Stack Developer | 💡 Consistent Learner | 🧑‍💻 Problem Solver  
 
 ---
