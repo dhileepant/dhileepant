@@ -1,5 +1,5 @@
 <!-- Capsule Banner (Galaxy Style) -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=🚀%20Hi,%20I'm%20Dhileepan!&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi,%20I'm%20Dhileepan!&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40)
 
 <!-- Neon Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Full-Stack+Developer;Consistent+Learner;Problem+Solver;DSA+%7C+MERN+Stack+Enthusiast)](https://git.io/typing-svg)
@@ -7,7 +7,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhileepan-t-5982682a6/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/dhileepan13/)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/dhileepan_2)
@@ -16,28 +16,25 @@
 
 ---
 
-
-## 📊 My LeetCode Stats
+## My LeetCode Stats
 ![LeetCode Contest Stats](https://leetcard.jacoblin.cool/dhileepan13?theme=dark&font=Roboto&ext=contest)
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/dhileepan13?theme=dark&font=Roboto&ext=heatmap&border=0&activity=1)
 
-
-
 ---
 
-## ⚡ GitHub Stats
+## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dhileepant&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhileepant&layout=compact&theme=radical)
 
 ---
 
-## 🔥 Streak Stats
+## Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhileepant&theme=radical)
 
 ---
 
-## 🚀 Skills & Tools
+## Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
@@ -52,11 +49,7 @@
 
 ---
 
-## 🎯 Current Focus
-- 📌 Mastering **MERN Stack**  
-- 📌 Strengthening **Problem Solving & DSA**  
-- 📌 Building projects in **AI & Web Development**
-
----
-![snake gif](https://github.com/dhileepant/dhileepant/blob/output/github-contribution-grid-snake.svg)
-
+## Current Focus
+- Mastering **MERN Stack**  
+- Strengthening **Problem Solving & DSA**  
+- Building projects in **AI & Web Development**
