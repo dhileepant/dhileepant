@@ -56,3 +56,7 @@
 - 📌 Mastering **MERN Stack**  
 - 📌 Strengthening **Problem Solving & DSA**  
 - 📌 Building projects in **AI & Web Development**
+
+---
+![snake gif](https://github.com/dhileepant/dhileepant/blob/output/github-contribution-grid-snake.svg)
+
