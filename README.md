@@ -54,5 +54,5 @@
 - Strengthening **Problem Solving & DSA**  
 - Building projects in **AI & Web Development**
 
-## GitHub Contribution Heatmap
-![GitHub Heatmap](https://activity-graph.herokuapp.com/graph?username=dhileepant&theme=react-dark&area=true)
+## GitHub Contribution Map
+![Dhileepan's GitHub Contribution Map](https://github-readme-activity-graph.cyclic.app/graph?username=dhileepant&theme=github)
