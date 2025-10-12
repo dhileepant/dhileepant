@@ -23,10 +23,14 @@
 ---
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dhileepant&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhileepant&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="48%" /> 
+  <img src="https://streak-stats.demolab.com/?user=dhileepant&theme=nightowl&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="48%" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhileepant&layout=compact&theme=radical)
-
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=dhileepant&theme=nightowl&radius=10" alt="Activity Graph" />
+</p>
 ---
 
 ## Streak Stats
