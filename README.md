@@ -24,8 +24,8 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhileepant&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="48%" /> 
-  <img src="https://streak-stats.demolab.com/?user=dhileepant&theme=nightowl&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhileepant&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="49%" /> 
+  <img src="https://streak-stats.demolab.com/?user=dhileepant&theme=nightowl&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
